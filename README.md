@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Django**
 
-- 📫 How to reach me **dwivediadityadhar1@gmail.com**
+- 📫 Get me at **dwivediadityadhar1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
